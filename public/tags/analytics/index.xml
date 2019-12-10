@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on George Paliouras</title>
+    <link>https://iit.demokritos.gr/gpal/tags/analytics/</link>
+    <description>Recent content in Analytics on George Paliouras</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2019 18:04:14 +0200</lastBuildDate>
+    
+	    <atom:link href="https://iit.demokritos.gr/gpal/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Infore</title>
+      <link>https://iit.demokritos.gr/gpal/project/infore/</link>
+      <pubDate>Tue, 03 Dec 2019 18:04:14 +0200</pubDate>
+      
+      <guid>https://iit.demokritos.gr/gpal/project/infore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bigmedilytics</title>
+      <link>https://iit.demokritos.gr/gpal/project/bigmedilytics/</link>
+      <pubDate>Mon, 02 Dec 2019 18:10:47 +0200</pubDate>
+      
+      <guid>https://iit.demokritos.gr/gpal/project/bigmedilytics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

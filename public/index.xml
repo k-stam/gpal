@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Paliouras</title>
+    <link>https://iit.demokritos.gr/gpal/</link>
+    <description>Recent content on George Paliouras</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://iit.demokritos.gr/gpal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://iit.demokritos.gr/gpal/talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>https://iit.demokritos.gr/gpal/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://iit.demokritos.gr/gpal/project/</link>
+      <pubDate>Wed, 04 Dec 2019 17:53:04 +0200</pubDate>
+      
+      <guid>https://iit.demokritos.gr/gpal/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://iit.demokritos.gr/gpal/post/</link>
+      <pubDate>Tue, 15 Oct 2019 12:58:26 +0200</pubDate>
+      
+      <guid>https://iit.demokritos.gr/gpal/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://iit.demokritos.gr/gpal/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://iit.demokritos.gr/gpal/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses etc</title>
+      <link>https://iit.demokritos.gr/gpal/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iit.demokritos.gr/gpal/education/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
