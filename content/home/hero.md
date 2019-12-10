@@ -42,7 +42,7 @@ hero_media = "user-2.jpg"
 #   label = "Contact me"
 
 +++
-## My name is **George Paliouras** and I'm a **Researcher** at [IIT](https://iit.demokritos.gr/), of [NCSR "Demokritos"](http://demokritos.gr/) in Athens, Greece, specializing in **Artificial Intelligence**
+## My name is **George Paliouras** and I'm a **Researcher** at [IIT](https://iit.demokritos.gr/), of [NCSR "Demokritos"](http://www.demokritos.gr/) in Athens, Greece, specializing in **Artificial Intelligence**
 
 Head of the Division of Intelligent Information Systems of IIT. Member of [Software and Knowledge Engineering Laboratory (SKEL)](https://www.iit.demokritos.gr/labs/skel/). Area Editor in the [journal of Computational Intelligence](https://onlinelibrary.wiley.com/journal/14678640). SKEL groups: [Complex Event Recognition (CER)](https://cer.iit.demokritos.gr/), [Biomedical and Health Informatics (BioHIT)](https://www.iit.demokritos.gr/labs/biohit/), [Personalization and Social Network Analysis (PerSoNA)](http://persona.iit.demokritos.gr/), [Content Analysis and Knowledge Technologies (CAKT)](https://www.iit.demokritos.gr/labs/cakt/).
 
